@@ -1,0 +1,13 @@
+[
+    {
+      "acads": "Academic Background",
+      "courses": ["Data structure and Algorithms", 
+                      "Object Oriented Programming",
+                      "Operating System",
+                    "Database Management System",
+                    "High Level Design",
+                    "Low Level Design",
+                    "Business Analytics",
+                    "Data Visulization"]
+    }
+]  

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "TextUtils",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the basic React by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "demo": "https://arnikroy.github.io/textutils-react/",
+      "source": "https://github.com/ArnikRoy/textutils-react"
+    },
+    {
+      "title": "The News App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a news website where you will your daily ultimate news. Every news at one stop.",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "demo": "https://github.com/ArnikRoy/NewsApp",
+      "source": "https://master--news-monkey-thenewsapp.netlify.app/"
+    },
+    {
+      "title": "IIIT-A Classroom",
+      "imageSrc": "projects/project.png",
+      "description": "This classroom app provides a smooth teacher student management portal",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://iiita-classroom.vercel.app/",
+      "source": "https://www.github.com"
+    }
+  ]
