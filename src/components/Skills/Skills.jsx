@@ -1,7 +1,7 @@
 import React from 'react'
 
 import skills from "../../data/skills.json"
-import history from "../../data/history.json"
+import acads from "../../data/acads.json"
 import { getImageUrl } from '../../utils'
 import styles from "./Skills.module.css"
 
@@ -22,11 +22,11 @@ export const Skills = () => {
                     )
                 })}
             </div>
-            <div className={styles.history}>
-                {history.map((courseItem, id) => {
+            <div className={styles.acads}>
+                {acads.map((courseItem, id) => {
                     return (
-                        <div key={id} className={styles.historyItem}>
-                            <div className={styles.historyItemDetails}>
+                        <div key={id} className={styles.acadsItem}>
+                            <div className={styles.acadsItemDetails}>
                                 <h3>{`${courseItem.acads}`}</h3>
                                 <ul>
                                     {courseItem.courses.map((course, id) => {
