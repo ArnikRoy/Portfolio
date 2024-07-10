@@ -20,6 +20,10 @@
       "imageSrc": "skills/node.png"
     },
     {
+      "title": "Express",
+      "imageSrc": "skills/express.png"
+    },
+    {
       "title": "MySQL",
       "imageSrc": "skills/mysql.png"
     },
@@ -34,5 +38,13 @@
     {
         "title": "AWS",
         "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Matlab",
+      "imageSrc": "skills/matlab.png"
     }
   ]
