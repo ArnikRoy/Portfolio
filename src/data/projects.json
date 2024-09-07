@@ -8,7 +8,7 @@
     "source": "https://github.com/ArnikRoy/IIITA-Classroom"
   },
   {
-    "title": "IIIT-A Blogging Website",
+    "title": "IIITA Blogging Website",
     "imageSrc": "projects/project.png",
     "description": "This blogging website provides a great user experience for exploring the campus.",
     "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
