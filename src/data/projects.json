@@ -3,7 +3,7 @@
     "title": "IIIT-A Classroom",
     "imageSrc": "projects/project.png",
     "description": "This classroom app provides a smooth teacher student management portal",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
     "demo": "https://iiita-classroom.vercel.app/",
     "source": "https://github.com/ArnikRoy/IIITA-Classroom"
   },
@@ -11,7 +11,7 @@
     "title": "IIIT-A Blogging Website",
     "imageSrc": "projects/project.png",
     "description": "This blogging website provides a great user experience for exploring the campus.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
+    "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
     "demo": "https://iiita-blogging-website.netlify.app/",
     "source": "https://github.com/ArnikRoy/IIITA-Blogging-Website"
   },
