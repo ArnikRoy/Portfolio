@@ -5,7 +5,15 @@
     "description": "This classroom app provides a smooth teacher student management portal",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://iiita-classroom.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ArnikRoy/IIITA-Classroom"
+  },
+  {
+    "title": "IIIT-A Blogging Website",
+    "imageSrc": "projects/project.png",
+    "description": "This blogging website provides a great user experience for exploring the campus.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://iiita-blogging-website.netlify.app/",
+    "source": "https://github.com/ArnikRoy/IIITA-Blogging-Website"
   },
   {
     "title": "The News App",
