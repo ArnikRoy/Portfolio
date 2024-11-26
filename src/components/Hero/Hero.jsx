@@ -6,7 +6,7 @@ import Typed from 'typed.js';
 export const Hero = () => {
   useEffect(() => {
     const options = {
-      strings: ["currently a final year IT undergraduate student at IIIT-Allahabad", "a compettive programmer", "a Full stack web developer specializing in the MERN stack"],
+      strings: ["currently a final year IT undergraduate student at IIIT-Allahabad", "a competitive programmer", "a Full stack web developer specializing in the MERN stack"],
       typeSpeed: 60,
       backSpeed: 60,
       backDelay: 1000,

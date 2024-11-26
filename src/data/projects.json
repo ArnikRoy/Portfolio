@@ -16,6 +16,14 @@
     "source": "https://github.com/ArnikRoy/IIITA-Blogging-Website"
   },
   {
+    "title": "LMNResolver",
+    "imageSrc": "projects/project.png",
+    "description": "LMNResolver is a Java-based utility designed to discover and resolve hostnames within local networks.",
+    "skills": ["Java"],
+    "demo": "",
+    "source": "https://github.com/ArnikRoy/Host-Discovery-Toole"
+  },
+  {
     "title": "The News App",
     "imageSrc": "projects/project.png",
     "description": "This is a news website where you will your daily ultimate news. Every news at one stop.",
