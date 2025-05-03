@@ -38,5 +38,21 @@
       "skills": ["HTML", "CSS", "JavaScript", "React", "Vite"],
       "demo": "https://arnikroy-portfolio.vercel.app/",
       "source": "https://github.com/ArnikRoy/Portfolio"
+    },
+    {
+      "title": "Image Caption Generator",
+      "imageSrc": "projects/project.png",
+      "description": "An advanced image caption generation platform.",
+      "skills": ["Python", "Tensorflow", "Flask"],
+      "demo": "https://github.com/ArnikRoy/image_caption-main/blob/main/README.md",
+      "source": "https://github.com/ArnikRoy/image_caption-main"
+    },
+    {
+      "title": " Fashion Outfit Generator",
+      "imageSrc": "projects/project.png",
+      "description": "AI-powered tool to generate user-requested fashion outfits with a prompt-based search bar.",
+      "skills": ["Python", "JavaScript", "HTML", "CSS"],
+      "demo": "https://fashion-outfit-generator-6g1n.onrender.com/",
+      "source": "https://github.com/ArnikRoy/Fashion-outfit-generator-main"
     }
   ]

@@ -32,8 +32,20 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/pgdb.png"
+    },
+    {
       "title": "C++",
       "imageSrc": "skills/cpp.png"
+    },
+    {
+      "title": "Go",
+      "imageSrc": "skills/go.png"
+    },
+    {
+      "title": "gRPC",
+      "imageSrc": "skills/grpc.png"
     },
     {
         "title": "AWS",
