@@ -26,7 +26,7 @@ export const Experience = () => {
               <p className={styles.company}>IoT security lab, IIIT Allahabad</p>
               <p className={styles.duration}>Aug 2023 - Nov 2023</p>
               <p className={styles.description}>
-                Tech Stacks: Java
+                Tech Stacks: Java, Network Protocols
               </p>
             </div>
           </div>
