@@ -54,5 +54,13 @@
       "skills": ["Python", "JavaScript", "HTML", "CSS"],
       "demo": "https://fashion-outfit-generator-6g1n.onrender.com/",
       "source": "https://github.com/ArnikRoy/Fashion-outfit-generator-main"
+    },
+    {
+      "title": " Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "A real time, bi-directional chat app.",
+      "skills": ["TypeScript", "Next.js", "Supabase", "Tailwind CSS"],
+      "demo": "https://chat-app-y69x.vercel.app/",
+      "source": "https://github.com/ArnikRoy/chatApp"
     }
   ]
