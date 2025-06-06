@@ -111,25 +111,7 @@ export const Contact = () => {
         className={styles.links}
         variants={containerVariants}
       >
-        <motion.li 
-          className={`${styles.link} contact-link`}
-          variants={linkVariants}
-          whileHover="hover"
-          whileTap="tap"
-        >
-          <motion.img 
-            src={getImageUrl("contact/emailIcon.png")} 
-            alt='Email Icon'
-            variants={iconVariants}
-            whileHover="hover"
-          />
-          <motion.a 
-            href='mailto: royarnik107@gmail.com'
-            whileHover={{ color: "var(--color-primary)" }}
-          >
-            royarnik107@gmail.com
-          </motion.a>
-        </motion.li>
+        
 
         <motion.li 
           className={`${styles.link} contact-link`}
@@ -172,6 +154,26 @@ export const Contact = () => {
             whileHover={{ color: "var(--color-primary)" }}
           >
             linkedin.com/arnik-roy
+          </motion.a>
+        </motion.li>
+
+        <motion.li 
+          className={`${styles.link} contact-link`}
+          variants={linkVariants}
+          whileHover="hover"
+          whileTap="tap"
+        >
+          <motion.img 
+            src={getImageUrl("contact/emailIcon.png")} 
+            alt='Email Icon'
+            variants={iconVariants}
+            whileHover="hover"
+          />
+          <motion.a 
+            href='mailto: royarnik107@gmail.com'
+            whileHover={{ color: "var(--color-primary)" }}
+          >
+            royarnik107@gmail.com
           </motion.a>
         </motion.li>
       </motion.ul>
