@@ -60,10 +60,16 @@
     max-width: 400px;
 }
 
-.link:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+/* Bright LinkedIn style */
+.link.linkedin {
+    /* Remove background and color overrides */
+}
+.link.linkedin a {
+    color: #0a66c2; /* Bright LinkedIn blue */
+    font-weight: 600;
+}
+.link.linkedin a:hover {
+    color: #004182;
 }
 
 .link img {
